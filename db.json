@@ -1,6 +1,14 @@
 {
-  "banners" : [ 
-    { "url" : "https://storiesflistgv2.blob.core.windows.net/stories/2019/09/Banner-01-800x360.jpg"},
-    { "url" : "https://storiesflistgv2.blob.core.windows.net/stories/2019/09/Banner-01-800x360.jpg"}
-  ]
+
+"c2array":true,
+
+"size":[3,2,1],
+
+"data":[      [ ["https://storiesflistgv2.blob.core.windows.net/stories/2019/09/Banner-01-800x360.jpg"],["https://storiesflistgv2.blob.core.windows.net/stories/2019/09/Banner-01-800x360.jpg"] ],
+
+     [ ["https://storiesflistgv2.blob.core.windows.net/stories/2019/09/Banner-01-800x360.jpg"],["https://storiesflistgv2.blob.core.windows.net/stories/2019/09/Banner-01-800x360.jpg"] ],
+
+     [ ["https://storiesflistgv2.blob.core.windows.net/stories/2019/09/Banner-01-800x360.jpg"],["https://storiesflistgv2.blob.core.windows.net/stories/2019/09/Banner-01-800x360.jpg"] ]
+
+]
 }
